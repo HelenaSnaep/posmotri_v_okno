@@ -247,7 +247,7 @@ ol {
 }
 
 .content__list-item:not(:last-child) {
-  margin-bottom: 28px;
+  margin-bottom: 27px;
 }
 
 .content__card-link {
